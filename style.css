@@ -1,0 +1,87 @@
+body {
+    background-color: black;
+}
+
+.bl {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #5389ff;
+    border-radius: 100px;
+}
+
+.block {
+    border: 5px solid #5389ff;
+    max-width: 800px;
+    margin: 0px auto;
+    height: 445px;
+    position: relative;
+}
+.block div{
+    line-height: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center; 
+}
+.block__1 {
+    background-color: green;
+    
+}
+.block__2 {
+    background-color: lightgreen;
+   
+}
+.block__3 {
+    background-color: yellow;
+}
+.block__4 {
+    background-color: orange;
+}
+.block__5 {
+    background-color: red;
+}
+
+.inf {
+    text-align: center;
+}
+
+.ft {
+    border-style: solid;
+    border-width: 3px;
+    border-color: #5389ff;
+    border-radius: 100px;
+}
+
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h4 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h5 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+h6 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
